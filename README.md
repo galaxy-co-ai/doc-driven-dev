@@ -26,7 +26,7 @@ This template provides a complete documentation structure that guides you (and y
 
 ```bash
 # Clone the template
-git clone https://github.com/yourusername/doc-driven-dev.git my-project
+git clone https://github.com/galaxy-co-ai/doc-driven-dev.git my-project
 cd my-project
 rm -rf .git && git init
 ```
